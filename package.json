@@ -1,5 +1,5 @@
 {
-  "name": "gulp-unofficial-plugin",
+  "name": "gulp-plugin-unofficial",
   "description": "An unofficial template for building Gulp plugins",
   "version": "0.0.2",
   "homepage": "http://github.com/koglerjs/gulp-plugin-unofficial",
