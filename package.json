@@ -1,0 +1,37 @@
+{
+  "name": "gulp-unofficial-plugin",
+  "description": "An unofficial template for building Gulp plugins",
+  "version": "0.0.1",
+  "homepage": "http://github.com/koglerjs/gulp-unofficial-plugin",
+  "repository": "git://github.com/koglerjs/gulp-unofficial-plugin.git",
+  "author": {
+    "name": "Jim Kogler",
+    "email": "koglerjs@gmail.com",
+    "url": "https://koglerjs.com"
+  },
+  "main": "./index.js",
+  "keywords": [
+    "gulp", "plugins", "project template"
+  ],
+  "dependencies": {
+    "through": "^2.3.4",
+    "gulp-util": "^2.2.5"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "engineStrict": true,
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/koglerjs/gulp-unofficial-plugin/raw/master/LICENSE"
+    }
+  ]
+}
